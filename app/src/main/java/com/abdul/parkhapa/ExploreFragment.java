@@ -24,6 +24,7 @@ public class ExploreFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View x =  inflater.inflate(R.layout.fragment_explore, container, false);
+
         return  x;
 
     }
